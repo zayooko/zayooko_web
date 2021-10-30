@@ -3,7 +3,7 @@ window.onload = function ()
   var type = new Typed('#typed',
   {
       stringsElement: '#strings',
-      typeSpeed: 200,
+      typeSpeed: 100,
       startDelay: 1200,
       backSpeed: 20,
       backDelay: 1200,
