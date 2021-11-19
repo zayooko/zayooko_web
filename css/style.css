@@ -46,7 +46,7 @@ opacity: 0;
 display: none;
 }
 
-/* Custom cursor animation */
+/* Custom cursor animations */
 @keyframes blink
 {
   0% { opacity: 1; }
